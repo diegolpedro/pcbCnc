@@ -16,7 +16,11 @@ Este proyecto esta orientado a todas aquellas personas, amantes de la electróni
 Es por esto que se pone principal énfasis en la economía del mismo, sin dejar de lado la calidad.
 
 ## ¿Como colaborar?
-Tienes una idea, una sugerencia, queres compartir hardware o lineas de software? Todos los aportes son bienvenidos en pos e conseguir un buen producto final.
+Tienes una idea, una sugerencia, queres compartir hardware o lineas de software? Todos los aportes son bienvenidos en pos de conseguir un producto final adecuado.
+
+## Autor
+* **Pedro Diego** - *Inicio de proyecto* - [3DClassicParts](https://github.com/3dclassicparts)
+Mira [quienes](https://github.com/diegolpedro/pcbCnc/contributors) colaboran en este proyecto.
 
 ## Licencia
 No definida aun.
