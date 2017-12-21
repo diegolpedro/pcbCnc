@@ -16,7 +16,7 @@ Este proyecto esta orientado a todas aquellas personas, amantes de la electróni
 Es por esto que se pone principal énfasis en la economía del mismo, sin dejar de lado la calidad.
 
 ## ¿Como colaborar?
-Tienes una idea, una sugerencia, queres compartir hardware o lineas de software? Todos los aportes son bienvenidos en pos de conseguir un producto final adecuado.
+Tienes una idea, una sugerencia, quieres compartir hardware o lineas de codigo? Todos los aportes son bienvenidos en pos de conseguir un producto final de primer nivel. Mas adelante dare los detalles como hacerlo de manera correcta.
 
 ## Autor
 * **Pedro Diego** - *Inicio de proyecto* - [3DClassicParts](https://github.com/3dclassicparts)
