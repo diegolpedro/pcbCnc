@@ -23,4 +23,4 @@ Tienes una idea, una sugerencia, quieres compartir hardware o lineas de codigo? 
 Mira [quienes](https://github.com/diegolpedro/pcbCnc/contributors) colaboran en este proyecto.
 
 ## Licencia
-No definida aun.
+GPLv3
